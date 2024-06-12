@@ -1,0 +1,19 @@
+{
+  "name": "small",
+  "version": "1.0.0",
+  "description": "The most simple web app to learn how to use the Spotify API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CodingOnBush/UderstandSpotifyAPI.git"
+  },
+  "author": "CodingOnBush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingOnBush/UderstandSpotifyAPI/issues"
+  },
+  "homepage": "https://github.com/CodingOnBush/UderstandSpotifyAPI#readme"
+}
